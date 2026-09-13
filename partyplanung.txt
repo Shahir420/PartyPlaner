@@ -1,5 +1,5 @@
 TODO
-Spiele: Chess
+Spiele: Chess, Shahir
 Trinken: Monster
 Snacks: Chips
 
