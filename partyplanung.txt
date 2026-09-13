@@ -1,4 +1,5 @@
 TODO
-Spiele:
-Trinken:
-Snacks:
+Spiele: Chess
+Trinken: Monster
+Snacks: Chips
+
