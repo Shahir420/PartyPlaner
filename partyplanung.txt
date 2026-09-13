@@ -1,5 +1,4 @@
 TODO
-Spiele: Blinde Kuh (Shahir ist die Kuh)
-Spiele: Chess, Shahir
+Spiele: Blinde Kuh (Shahir ist die Kuh), Chess
 Trinken: Monster
 Snacks: Chips
