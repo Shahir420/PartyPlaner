@@ -1,4 +1,4 @@
 TODO
 Spiele: Blinde Kuh (Shahir ist die Kuh), Chess
-Trinken: Monster
+Trinken: Monster, Bob, Limo
 Snacks: Chips
